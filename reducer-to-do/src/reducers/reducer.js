@@ -17,6 +17,9 @@ export const initialState = [
 ]
 
 export function reducer(state, action) {
+  // add todo action
+  // completed todo action
+  
   return {
   }
 }
